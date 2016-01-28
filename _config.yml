@@ -1,0 +1,29 @@
+name: Sacred Lotus Love
+favicon: null
+layout_spectrum: 0.68728999607265
+typography_spectrum: 0.025092855328693986
+title: Sacred Lotus Love - Create moments of presence and connection
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5780587738845497
+  lightness: 0.6910036597400904
+  saturation: 0.6993337385356426
+  rhythmicContrast: 0.9686525834258646
+purpose: []
