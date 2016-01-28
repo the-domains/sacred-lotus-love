@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sacred Lotus Love - Create moments of presence and connection]]></title>
         <description><![CDATA[Sacred Lotus Love - Create moments of presence and connection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sacred-lotus-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 23:05:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 23:05:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sacred-lotus-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e368dffd-b97a-40fe-8200-e6e65eb1befa.jpg">]]></description>
+            <link>https://thegrid.ai/sacred-lotus-love/97da4230-7c77-4eb3-aff7-6de8c36d6b05/index.html</link>
+            <guid isPermaLink="false">97da4230-7c77-4eb3-aff7-6de8c36d6b05</guid>
+            <pubDate>Thu, 28 Jan 2016 23:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Sacred Lotus Love. </p>]]></description>
-            <link>undefined3e89fa4c-39c1-4a5c-af24-7cc62981f186/index.html</link>
+            <link>https://thegrid.ai/sacred-lotus-love/3e89fa4c-39c1-4a5c-af24-7cc62981f186/index.html</link>
             <guid isPermaLink="false">3e89fa4c-39c1-4a5c-af24-7cc62981f186</guid>
             <pubDate>Thu, 28 Jan 2016 23:05:07 GMT</pubDate>
         </item>
