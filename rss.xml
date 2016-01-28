@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sacred Lotus Love - Create moments of presence and connection]]></title>
+        <description><![CDATA[Sacred Lotus Love - Create moments of presence and connection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 23:05:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Sacred Lotus Love. </p>]]></description>
+            <link>undefined3e89fa4c-39c1-4a5c-af24-7cc62981f186/index.html</link>
+            <guid isPermaLink="false">3e89fa4c-39c1-4a5c-af24-7cc62981f186</guid>
+            <pubDate>Thu, 28 Jan 2016 23:05:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
